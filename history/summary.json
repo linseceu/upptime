@@ -4,17 +4,17 @@
     "url": "https://searx.linsec.eu",
     "icon": "https://icons.duckduckgo.com/ip3/searx.linsec.eu.ico",
     "slug": "https-searx-linsec-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 839,
-    "timeWeek": 725,
-    "timeMonth": 719,
-    "timeYear": 719,
+    "time": 704,
+    "timeDay": 562,
+    "timeWeek": 693,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   }
 ]
