@@ -1,7 +1,7 @@
 url: https://searx.linsec.eu
-status: down
-code: 502
-responseTime: 751
-lastUpdated: 2025-10-12T23:19:41.293Z
+status: up
+code: 200
+responseTime: 600
+lastUpdated: 2025-10-13T08:49:46.674Z
 startTime: 2025-05-01T18:27:04.289Z
 generator: Upptime <https://github.com/upptime/upptime>
